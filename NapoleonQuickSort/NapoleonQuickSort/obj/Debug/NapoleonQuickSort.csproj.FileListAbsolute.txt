@@ -1,0 +1,7 @@
+C:\Work\C#\NapoleonQuickSort\NapoleonQuickSort\bin\Debug\NapoleonQuickSort.exe.config
+C:\Work\C#\NapoleonQuickSort\NapoleonQuickSort\bin\Debug\NapoleonQuickSort.exe
+C:\Work\C#\NapoleonQuickSort\NapoleonQuickSort\bin\Debug\NapoleonQuickSort.pdb
+C:\Work\C#\NapoleonQuickSort\NapoleonQuickSort\obj\Debug\NapoleonQuickSort.csprojAssemblyReference.cache
+C:\Work\C#\NapoleonQuickSort\NapoleonQuickSort\obj\Debug\NapoleonQuickSort.csproj.CoreCompileInputs.cache
+C:\Work\C#\NapoleonQuickSort\NapoleonQuickSort\obj\Debug\NapoleonQuickSort.exe
+C:\Work\C#\NapoleonQuickSort\NapoleonQuickSort\obj\Debug\NapoleonQuickSort.pdb
